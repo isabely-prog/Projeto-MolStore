@@ -38,4 +38,4 @@
     out.print("Dados gravados com sucesso!!!");
     out.print("<br><br>");
     out.print("<a href='login.html'>Voltar</a>");
-%>s
+%>
